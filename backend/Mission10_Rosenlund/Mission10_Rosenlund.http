@@ -1,0 +1,6 @@
+@Mission10_Rosenlund_HostAddress = http://localhost:5135
+
+GET {{Mission10_Rosenlund_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
